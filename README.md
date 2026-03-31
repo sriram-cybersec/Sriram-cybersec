@@ -1,11 +1,11 @@
 # Hi, I'm Sriram 👋
 ### Aspiring Cybersecurity Engineer
 
-🔐 - Passionate about cybersecurity, ethical hacking, and building real-world tools
-💻 Currently learning Python scripting, Kali Linux, and Networking  
-🔐 Interested in Ethical Hacking & Security Tools  
-🤝 Looking to collaborate on **Begineer Cybersecurity projects**
-📫 Reach me at: srirampydimarry16@gmail.com  
+- 🔐 Passionate about cybersecurity, ethical hacking, and building real-world tools  
+- 💻 Currently learning Python scripting, Kali Linux, and Networking  
+- 🛡️ Interested in Ethical Hacking & Security Tools  
+- 🤝 Looking to collaborate on Beginner Cybersecurity projects  
+- 📫 Reach me at: srirampydimarry16@gmail.com
 
 ## 🚀 Skills
 - Python (Basics, Scripting)
