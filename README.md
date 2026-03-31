@@ -1,7 +1,7 @@
 # Hi, I'm Sriram 👋
 ### Aspiring Cybersecurity Engineer
 
-🔐 Passionate about cybersecurity, ethical hacking, and building real-world tools
+🔐 - Passionate about cybersecurity, ethical hacking, and building real-world tools
 💻 Currently learning Python scripting, Kali Linux, and Networking  
 🔐 Interested in Ethical Hacking & Security Tools  
 🤝 Looking to collaborate on **Begineer Cybersecurity projects**
