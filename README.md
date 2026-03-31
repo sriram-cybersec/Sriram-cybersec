@@ -14,9 +14,14 @@
 
 ## 💻 Skills & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,gcp" />
 </p>
-
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=azure" />  
+</p>
+  
 ## 📌 Current Focus
 - Learning Python programming
 - Practicing Linux commands
