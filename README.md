@@ -33,7 +33,7 @@
 - Networking fundamentals
 
 ## 🎯 Goals
-- Become a Cybersecurity Engineer  
+- Become a Cybersecurity specialist
 - Build security tools  
 - Work at top tech companies  
 
