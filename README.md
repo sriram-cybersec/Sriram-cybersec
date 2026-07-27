@@ -1,5 +1,5 @@
 # Hi, I'm Sriram 👋
-### Aspiring Cybersecurity Engineer
+Cybersecurity student building hands-on Python and security projects while learning Linux, networking, and cloud security.
 
 - 🔐 Passionate about cybersecurity, ethical hacking, and building real-world tools  
 - 💻 Currently learning Python scripting, Kali Linux, and Networking  
